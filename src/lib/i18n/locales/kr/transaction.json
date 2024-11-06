@@ -1,0 +1,23 @@
+{
+  "method": "방법",
+  "methodPlaceholder": "방법 선택",
+  "currency": "원",
+  "moneyPlaceholder": "입금 금액",
+  "note": "주의 사항",
+  "description1": "최소 입금 금액은 50,000입니다.",
+  "description2": "궁금한 점이 있으면 고객 서비스에 문의하십시오.",
+  "description3": "입금자의 이름은 회원이 제공한 실제 이름과 일치해야 하며, 입금 금액은 입금 주문과 일치해야 합니다. 입력한 입금 날짜에 따라 송금해 주십시오. 그렇지 않으면 돈을 받지 못할 수 있습니다.",
+  "description4": "입금 금액이 9,999,999,999를 초과하는 경우, 입금 계좌를 받기 위해 고객 서비스에 문의하십시오.",
+  "description5": "추가 입금을 원하시면 새 입금 주문을 하십시오. 이전 은행 계좌로 입금하면 돈을 받지 못할 수 있습니다.",
+  "send": "보내기",
+  "deposit": "입금",
+  "withdrawal": "출금",
+  "passwordWithDrawal": "출금 비밀번호",
+  "confirm": "확인",
+  "depositSuccess": "입금 성공",
+  "withdrawalSuccess": "출금 성공",
+   "casinoDeposit": "카지노 입금",
+  "casinoWithdrawl": "카지노 출금",
+  "casinoBalance": "카지노 잔액"
+  
+}

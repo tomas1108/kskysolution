@@ -1,0 +1,17 @@
+{
+  "registerAccount": "Đăng ký tài khoản",
+  "idAccount": "Tài khoản ID",
+  "password": "Mật khẩu",
+  "phone": "Số điện thoại",
+  "bankName": "Tên ngân hàng",
+  "bankAccountNumber": "Số tài khoản ngân hàng",
+  "bankAccountName": "Tên tài khoản ngân hàng",
+  "passwordWithDrawal": "Mật khẩu rút tiền",
+  "providerCode": "Mã nhà đại lý",
+  "labelTerm": "Tôi 18 tuổi trở lên. Tôi đã đọc, chấp nhận và đồng ý. Toàn bộ chính sách, điều khoản và điều kiện, luật lệ.",
+  "register": "Đăng ký",
+  "registerSuccess": "Đăng ký thành công",
+  "registerFail": "Đăng ký thất bại",
+  "login": "Đăng nhập",
+  "accountExist": "Đã có tài khoản?"
+}

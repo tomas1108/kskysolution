@@ -1,0 +1,31 @@
+{
+  "language": "语言",
+  "topChoice": "最佳选择",
+  "menu": {
+    "home": "主页",
+    "notification": "公告",
+    "consultingComments": "咨询与意见",
+    "depositWithdrawal": "存款与取款",
+    "casinoWallet":"赌场钱包"
+  },
+  "footer": {
+    "aboutUs": "关于我们",
+    "helpCenter": "帮助中心",
+    "agencyPlan": "代理计划",
+    "downloadApp": "下载应用",
+    "sponsor": "赞助商",
+    "currencyAccepted": "接受的货币"
+  },
+  "action": {
+    "login": "登录",
+    "register": "注册",
+    "logout": "登出",
+    "betNow": "立即投注"
+  },
+  "profile": {
+    "myAccount": "我的账户",
+    "profile": "个人资料",
+    "support": "支持",
+    "logout": "登出"
+  }
+}

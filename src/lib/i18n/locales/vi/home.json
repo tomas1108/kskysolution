@@ -1,0 +1,31 @@
+{
+  "language": "Ngôn ngữ",
+  "topChoice": "Lựa chọn hàng đầu",
+  "menu": {
+    "home": "Trang chủ",
+    "notification": "Thông báo",
+    "consultingComments": "Tư vấn & góp ý kiến",
+    "depositWithdrawal": "Nạp & Rút tiền",
+    "casinoWallet":"Ví Casino"
+  },
+  "footer": {
+    "aboutUs": "Về chúng tôi",
+    "helpCenter": "Trung tâm trợ giúp",
+    "agencyPlan": "Phương án đại lý",
+    "downloadApp": "Tải app",
+    "sponsor": "Nhà tài trợ",
+    "currencyAccepted": "Đơn vị tiền tệ được chấp nhận"
+  },
+  "action": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "betNow": "Cược ngay"
+  },
+  "profile": {
+    "myAccount": "Tài khoản của tôi",
+    "profile": "Hồ sơ",
+    "support": "Hỗ trợ",
+    "logout": "Đăng xuất"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "room": "Phòng",
+  "userBet": "Người chơi",
+  "money": "Tiền",
+  "limit": "Tối thiểu",
+  "dealer": "Người chia bài",
+  "action": {
+    "bet": "ĐẶT CƯỢC NGAY",
+    "cancel": "Hủy CƯỢC",
+    "retry": "ĐẶT LẠI",
+    "game": "CHƠI NGAY",
+    "playSlotError": "VUI LÒNG ĐĂNG NHẬP"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "language": "언어",
+  "topChoice": "최고의 선택",
+  "menu": {
+    "home": "홈페이지",
+    "notification": "공고",
+    "consultingComments": "상담 및 의견",
+    "depositWithdrawal": "입금 및 출금",
+    "casinoWallet":"카지노 지갑"
+
+  },
+  "footer": {
+    "aboutUs": "회사 소개",
+    "helpCenter": "도움말 센터",
+    "agencyPlan": "대행사 계획",
+    "downloadApp": "앱 다운로드",
+    "sponsor": "스폰서",
+    "currencyAccepted": "허용되는 통화"
+  },
+  "action": {
+    "login": "로그인",
+    "register": "등록",
+    "logout": "로그 아웃",
+    "betNow": "지금 베팅"
+
+  },
+  "profile": {
+    "myAccount": "내 계정",
+    "profile": "프로필",
+    "support": "지원",
+    "logout": "로그 아웃"
+  }
+}

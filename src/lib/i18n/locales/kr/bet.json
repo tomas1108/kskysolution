@@ -1,0 +1,14 @@
+{
+  "room": "방",
+  "userBet": "사용자",
+  "money": "돈",
+  "limit": "최소",
+  "dealer": "딜러",
+  "action": {
+    "bet": "베팅",
+    "cancel": "취소",
+    "retry": "다시",
+    "game": "지금 플레이",
+    "playSlotError": "로그인 해주세요"
+  }
+}

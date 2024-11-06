@@ -1,0 +1,22 @@
+{
+  "method": "Phương thức",
+  "methodPlaceholder": "Chọn phương thức",
+  "currency": "VND",
+  "moneyPlaceholder": "Số tiền nạp",
+  "note": "Lưu ý",
+  "description1": "Số tiền nạp tối thiểu là 50,000.",
+  "description2": "Nếu có bất kỳ thắc mắc nào, xin liên hệ chăm sóc khách hàng.",
+  "description3": "Họ tên người nạp tiền phải trùng khớp với họ tên tài thật mà thành viên đã cung cấp, số tiền nạp phải trùng khớp với đơn nạp tiền, vui lòng chuyển khoản theo ngày nạp tiền đã nhập, nếu không bạn sẽ không nhận được tiền.",
+  "description4": "Nếu số tiền nạp cao hơn 9,999,999,999, vui lòng liên hệ chăm sóc khách hàng để nhận tài khoản nạp tiền.",
+  "description5": "Nếu muốn nạp thêm tiền, vui lòng đặt lại lệnh nạp, nếu nạp vào tài khoản ngân hàng cũ sẽ không nhận được.",
+  "send": "Gửi",
+  "deposit": "Nạp tiền",
+  "withdrawal": "Rút tiền",
+  "passwordWithDrawal": "Mật khẩu rút tiền",
+  "confirm": "Xác nhận",
+  "depositSuccess": "Nạp tiền thành công",
+  "withdrawalSuccess": "Rút tiền thành công",
+  "casinoDeposit": "Nạp tiền casino",
+  "casinoWithdrawl": "Rút tiền casino",
+  "casinoBalance": "Số dư ví casino"
+}

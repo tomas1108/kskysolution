@@ -1,0 +1,17 @@
+{
+  "registerAccount": "회원 가입",
+  "idAccount": "아이디",
+  "password": "비밀번호",
+  "phone": "전화번호",
+  "bankName": "은행 이름",
+  "bankAccountNumber": "은행 계좌 번호",
+  "bankAccountName": "은행 계좌 이름",
+  "passwordWithDrawal": "출금 비밀번호",
+  "providerCode": "대리점 코드",
+  "labelTerm": "저는 18세 이상입니다. 저는 모든 정책, 약관 및 조건, 규칙을 읽고, 수락하고, 동의합니다.",
+  "register": "가입",
+  "registerSuccess": "가입 성공",
+  "registerFail": "가입 실패",
+  "login": "로그인",
+  "accountExist": "계정이 이미 있습니까?"
+}

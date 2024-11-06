@@ -1,0 +1,17 @@
+{
+  "registerAccount": "注册账户",
+  "idAccount": "账号",
+  "password": "密码",
+  "phone": "电话号码",
+  "bankName": "银行名称",
+  "bankAccountNumber": "银行账号",
+  "bankAccountName": "银行账户名",
+  "passwordWithDrawal": "取款密码",
+  "providerCode": "代理代码",
+  "labelTerm": "我已年满18岁。我已阅读、接受并同意所有政策、条款和条件、规则。",
+  "register": "注册",
+  "registerSuccess": "注册成功",
+  "registerFail": "注册失败",
+  "login": "登录",
+  "accountExist": "已有账户？"
+}

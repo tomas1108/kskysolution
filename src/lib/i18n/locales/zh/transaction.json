@@ -1,0 +1,22 @@
+{
+  "method": "方法",
+  "methodPlaceholder": "选择方法",
+  "currency": "韩元",
+  "moneyPlaceholder": "存款金额",
+  "note": "注意事项",
+  "description1": "最低存款金额为50,000。",
+  "description2": "如有任何疑问，请联系客户服务。",
+  "description3": "存款人的姓名必须与会员提供的真实姓名一致，存款金额必须与存款订单一致。请按照输入的存款日期进行转账，否则可能无法收到款项。",
+  "description4": "如果存款金额超过9,999,999,999，请联系客户服务以获取存款账户。",
+  "description5": "如果需要追加存款，请重新下存款订单。如果存入旧的银行账户，可能无法收到款项。",
+  "send": "发送",
+  "deposit": "存款",
+  "withdrawal": "取款",
+  "passwordWithDrawal": "取款密码",
+  "confirm": "确认",
+  "depositSuccess": "存款成功",
+  "withdrawalSuccess": "取款成功",
+  "casinoDeposit": "赌场存款",
+  "casinoWithdrawl": "赌场取款",
+  "casinoBalance": "赌场余额"
+}

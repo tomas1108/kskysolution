@@ -1,0 +1,14 @@
+{
+  "room": "房间",
+  "userBet": "用户",
+  "money": "钱",
+  "limit": "最小",
+  "dealer": "经销商",
+  "action": {
+    "bet": "投注",
+    "cancel": "取消",
+    "retry": "重试",
+    "game": "现在玩",
+    "playSlotError": "请登录"
+  }
+}

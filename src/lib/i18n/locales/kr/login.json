@@ -1,0 +1,9 @@
+{
+  "idAccount": "아이디",
+  "password": "비밀번호",
+  "accountLogin": "로그인",
+  "forgotPassword": "비밀번호를 잊으셨습니까?",
+  "rememberPassword": "비밀번호 기억하기",
+  "labelTerm": "저는 18세 이상입니다. 저는 모든 정책, 약관 및 조건, 규칙을 읽고, 수락하고, 동의합니다.",
+  "login": "로그인"
+}
