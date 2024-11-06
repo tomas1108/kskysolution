@@ -29,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/icons/logo.svg" />
+        <link rel="icon" href="/icons/ksky.ico" />
       </head>
       <body
         className={`${roboto.className} bg-primary-custom antialiased`}

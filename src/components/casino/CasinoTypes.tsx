@@ -34,7 +34,7 @@ const CasinoTypes = () => {
 
   return (
     <div className="casino-container">
-      <h2 style={{color:"white", fontSize:"bold"}}>Slot Types</h2>
+      <h2 style={{color:"white", fontSize:"bold"}}>Casino Types</h2>
       <div className="casino-grid">
         {casinoItems.map((item, index) => (
           <div key={index} className="casino-item">
