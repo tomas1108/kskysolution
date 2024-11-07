@@ -8,7 +8,7 @@ import { cn } from '~/lib/utils';
 
 type TProps = {};
 
-const Header = ({}: TProps) => {
+const Header = ({ }: TProps) => {
   const { setI18nextLng, i18nextLng } = appStore();
   const { t, i18n } = useTranslation();
 
@@ -31,11 +31,17 @@ const Header = ({}: TProps) => {
 
           {/* Navigation Links */}
           <nav className="flex gap-6 text-large cursor-pointer">
-            <Link href="/casino" className="hover:underline font-bold">KSKYsolution</Link>
-            <Link href="/slots" className="hover:underline font-bold">토지노 솔루션</Link>
-            <Link href="/sports" className="hover:underline font-bold">카지노 솔루션</Link>
-            <Link href="/minigames" className="hover:underline font-bold">상품 통합 API</Link>
-            <Link href="/api" className="hover:underline font-bold">컨설팅</Link>
+            <Link href="/" className="hover:underline font-bold">KSKYsolution</Link>
+            <Link href="/sport&casino" className="hover:underline font-bold">토지노 솔루션</Link>
+            <Link href="/slot&casino" className="font-bold hover:underline">
+              카지노 솔루션
+            </Link>
+            <Link href="/consoluting" className="font-bold hover:underline text-lg">
+              상품 통합 API
+            </Link>
+            <Link href="/agent-api" className="font-bold hover:underline">
+              컨설팅
+            </Link>
             <Link href="/info" className="hover:underline font-bold">More</Link>
           </nav>
         </div>
@@ -51,7 +57,7 @@ const Header = ({}: TProps) => {
           priority
         />
         <div className="relative z-20 flex flex-col items-center justify-center h-full text-center px-100">
-          <h1 className="text-5xl font-bold text-white max-w-2xl" style={{ marginTop:'266px'}}>
+          <h1 className="text-5xl font-bold text-white max-w-2xl" style={{ marginTop: '266px' }}>
             카지노 솔루션, 슬롯 솔루션, 스포츠 및 미니게임 솔루션 및 통합 API
           </h1>
         </div>

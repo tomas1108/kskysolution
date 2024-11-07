@@ -13,7 +13,7 @@ const CasinoTypes = () => {
     { src: '/images/casino/Frame 08.png', alt: 'Casino 8' },
     { src: '/images/casino/Frame 09.png', alt: 'Casino 9' },
     { src: '/images/casino/Frame 10.png', alt: 'Casino 10' },
-    {   src: '/images/casino/Frame 11.png', alt: 'Casino 11' },
+    { src: '/images/casino/Frame 11.png', alt: 'Casino 11' },
     { src: '/images/casino/Frame 12.png', alt: 'Casino 12' },
     { src: '/images/casino/Frame 13.png', alt: 'Casino 13' },
     { src: '/images/casino/Frame 14.png', alt: 'Casino 14' },
@@ -25,11 +25,6 @@ const CasinoTypes = () => {
     { src: '/images/casino/Frame 20.png', alt: 'Casino 20' },
     { src: '/images/casino/Frame 21.png', alt: 'Casino 21' },
     { src: '/images/casino/Frame 22.png', alt: 'Casino 22' },
-    { src: '/images/casino/Frame 23.png', alt: 'Casino 23' },
-    { src: '/images/casino/Frame 24.png', alt: 'Casino 24' },
-  
-
-
   ];
 
   return (

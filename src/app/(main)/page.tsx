@@ -1,4 +1,5 @@
 import { Slot } from '~/components';
+import Banner from '~/components/banner/Banner';
 import CasinoTypes from '~/components/casino';
 import Middle from '~/components/middle';
 
@@ -6,8 +7,8 @@ export default async function Home() {
   return (
     <>
       <main className="mainContent">
+        
         <div className="container max-w-[1500px]">
-          
           <section className="casino-section">
             <CasinoTypes />
           </section>
