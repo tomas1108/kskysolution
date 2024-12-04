@@ -25,9 +25,9 @@ const ConsultingSection = () => {
             <Link href="/" className="font-bold hover:underline text-lg">
               KSKYsolution
             </Link>
-            <Link href="/sport&casino" className="font-bold hover:underline text-lg">
+            {/* <Link href="/sport&casino" className="font-bold hover:underline text-lg">
               토지노 솔루션
-            </Link>
+            </Link> */}
             <Link href="/slot&casino" className="font-bold hover:underline text-lg">
               카지노 솔루션
             </Link>
@@ -37,9 +37,9 @@ const ConsultingSection = () => {
             <Link href="/agent-api" className="font-bold hover:underline">
                             컨설팅
                         </Link>
-            <Link href="/info" className="font-bold hover:underline text-lg">
+            {/* <Link href="/info" className="font-bold hover:underline text-lg">
               More
-            </Link>
+            </Link> */}
           </nav>
         </div>
       </div>
@@ -58,7 +58,7 @@ const ConsultingSection = () => {
                 alt="Office Support"
                 width={400}
                 height={200}
-                className="rounded-lg mb-4"
+                 className="rounded-lg mb-4 object-cover h-[350px] w-full"
               />
               <h3 className="text-2xl font-bold mb-2">업무지원</h3>
               <p className="text-md font-medium leading-relaxed">
@@ -76,7 +76,7 @@ const ConsultingSection = () => {
                 alt="API Supply"
                 width={400}
                 height={200}
-                className="rounded-lg mb-4"
+                className="rounded-lg mb-4 object-cover h-[350px] w-full"
               />
               <h3 className="text-2xl font-bold mb-2">합리적인 가격의 API 알 공급</h3>
               <p className="text-md font-medium leading-relaxed">
@@ -94,7 +94,7 @@ const ConsultingSection = () => {
                 alt="Web Development and Design"
                 width={400}
                 height={200}
-                className="rounded-lg mb-4"
+                className="rounded-lg mb-4 object-cover h-[350px] w-full"
               />
               <h3 className="text-2xl font-bold mb-2">웹 개발 및 디자인</h3>
               <p className="text-md font-medium leading-relaxed">

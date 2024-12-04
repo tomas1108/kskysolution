@@ -32,7 +32,7 @@ const Header = ({ }: TProps) => {
           {/* Navigation Links */}
           <nav className="flex gap-6 text-large cursor-pointer">
             <Link href="/" className="hover:underline font-bold">KSKYsolution</Link>
-            <Link href="/sport&casino" className="hover:underline font-bold">토지노 솔루션</Link>
+            {/* <Link href="/sport&casino" className="hover:underline font-bold">토지노 솔루션</Link> */}
             <Link href="/slot&casino" className="font-bold hover:underline">
               카지노 솔루션
             </Link>
@@ -42,7 +42,7 @@ const Header = ({ }: TProps) => {
             <Link href="/agent-api" className="font-bold hover:underline">
               컨설팅
             </Link>
-            <Link href="/info" className="hover:underline font-bold">More</Link>
+            {/* <Link href="/info" className="hover:underline font-bold">More</Link> */}
           </nav>
         </div>
       </div>
